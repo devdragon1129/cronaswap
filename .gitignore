@@ -1,0 +1,10 @@
+node_modules
+.env
+
+#Hardhat files
+cache
+
+# *.json
+yarn.lock
+flatten
+.DS_Store
